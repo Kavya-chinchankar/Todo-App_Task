@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "web development"
+    },
+    {
+      "id": "1",
+      "text": "buy milk"
+    },
+    {
+      "id": "4dae78d1-f0fa-4623-ba91-c4cb67f7d6dd",
+      "text": "App development"
+    },
+    {
+      "id": "d4de24f0-fb3c-4cc7-b18e-b075cf965eaa",
+      "text": "React.js"
+    }
+  ]
+}
