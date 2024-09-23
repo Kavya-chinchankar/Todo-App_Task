@@ -14,7 +14,7 @@ Install dependencies with npm install
 $ npm install (to install dependencies)
 ```
   
-Run the json server with this command "json-server --watch data/todos.json --port 3001"
+Run the json server with this command
 
 ```
 # --- Terminal ---
