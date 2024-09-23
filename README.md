@@ -29,7 +29,12 @@ Run the development server with:
 
 $ npm run  start (to start the aplication)
 ```
+
 Navigate to http://localhost:3000 in your web browser
+
+##  Screenshots
+
+![image](https://github.com/user-attachments/assets/1deb5e0b-9008-4e76-a261-3c7d2e1cee76)
 
 ### 📦 Built With
 
@@ -39,4 +44,6 @@ Navigate to http://localhost:3000 in your web browser
 - [daisy ui] https://daisyui.com/components/
 - [react-icons] https://react-icons.github.io/react-icons/
 - [uuid] https://github.com/uuidjs/uuid
+
+  
 
