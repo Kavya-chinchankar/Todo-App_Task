@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<H1 align ="center" > CONTROLHUB  </h1>
 
 ## Getting Started
 
@@ -16,21 +16,40 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🚀 Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Install dependencies with npm install
 
-## Learn More
+```
+# --- Terminal ---
 
-To learn more about Next.js, take a look at the following resources:
+$ npm install (to install dependencies)
+$ npm run  start (to start the aplication)
+```
+  
+Run the json server with this command "json-server --watch data/todos.json --port 3001"
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
+# --- Terminal ---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+$ npm run json-server
+```
 
-## Deploy on Vercel
+Run the development server with:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+# --- Terminal ---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+$ npm run  start (to start the aplication)
+```
+Navigate to http://localhost:3000 in your web browser
+
+### 📦 Built With
+
+- [nextjs 13 docs] https://beta.nextjs.org/docs
+- [json-server] https://github.com/typicode/json-server
+- [tailwindcss] https://tailwindcss.com/docs/guides/nextjs
+- [daisy ui] https://daisyui.com/components/
+- [react-icons] https://react-icons.github.io/react-icons/
+- [uuid] https://github.com/uuidjs/uuid
+
