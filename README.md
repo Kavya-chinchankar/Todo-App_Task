@@ -35,7 +35,6 @@ Navigate to http://localhost:3000 in your web browser
 ##  Screenshots
 
 ![image](https://github.com/user-attachments/assets/1deb5e0b-9008-4e76-a261-3c7d2e1cee76)
-
 ### 📦 Built With
 
 - [nextjs 13 docs] https://beta.nextjs.org/docs
@@ -44,6 +43,9 @@ Navigate to http://localhost:3000 in your web browser
 - [daisy ui] https://daisyui.com/components/
 - [react-icons] https://react-icons.github.io/react-icons/
 - [uuid] https://github.com/uuidjs/uuid
+
+### GitHub Link
+- https://github.com/Kavya-chinchankar/Todo-App_Task.git 
 
   
 
