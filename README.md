@@ -27,7 +27,7 @@ Run the development server with:
 ```
 # --- Terminal ---
 
-$ npm run  start (to start the aplication)
+$ npm run dev (to start the aplication)
 ```
 
 Navigate to http://localhost:3000 in your web browser
