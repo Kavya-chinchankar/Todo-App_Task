@@ -1,5 +1,9 @@
 <H1 align ="center" > CONTROLHUB  </h1>
 
+<h5  align ="center"> 
+Todo List application made with Next JS </h5>
+<br/>
+
 ### 🚀 Getting Started
 
 Install dependencies with npm install
@@ -8,7 +12,6 @@ Install dependencies with npm install
 # --- Terminal ---
 
 $ npm install (to install dependencies)
-$ npm run  start (to start the aplication)
 ```
   
 Run the json server with this command "json-server --watch data/todos.json --port 3001"
