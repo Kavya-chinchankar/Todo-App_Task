@@ -1,4 +1,4 @@
-<H1 align ="center" > CONTROLHUB  </h1>
+<H1 align ="center" > TODOLIST  </h1>
 
 <h5  align ="center"> 
 Todo List application made with Next JS </h5>
